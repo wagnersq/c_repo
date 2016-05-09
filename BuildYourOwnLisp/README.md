@@ -1,4 +1,4 @@
-# Build Your Own Lisp
+# Build My Own Lisp
 ===================
 
 ### Introduction
@@ -22,3 +22,7 @@ The results reached were ...
 ### Screenshots
 
 ![Screen of interactive console](figure/ic-1.png)
+
+```r
+http://www.buildyourownlisp.com/contents
+```
